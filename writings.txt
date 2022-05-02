@@ -1,0 +1,48 @@
+Why
+---
+
+Are you tired of the ultra-competitive, callous world we live in? Want to break down capitalism, sexism, racism, and patriarchy? Perhaps you identify as lefistist, anarchist, libertarian, or anti-fascist. Systems of oppression and control are exactly that, systems. All of our actions and decisions are in relation to them. Here I propose ways to create and support alternatives to these systems, and to disrupt these systems. My methods and thoughts are my own, imperfect, and ever changing. I'm probably wrong on things. Please tell me when I am at nichevans@mailbox.org. My hope tho, is that most people that come here get something out of it. And not just knowledge, but action steps.
+
+Technology
+----------
+
+There is a war in the world of technology as old as computers. One side, the capitalists, has all the money and ad space and have made it seem like this war does not exist. In reality, their grip is looser than it looks. Freely available, freely made, and community-drive software called Open Source Software or FOSS*. Nearly every website, every server that stores your emails and cloud documents, and every supercomputer run on an open source system called Linux. You can get it on your desktop too, to replace Apple or Windows. Every Android phone is built on open source software, although Google adds their own special secrets to it.
+
+In truth, Open Source software runs the world already, and it is in fact gaining ground. One of the easiest ways to divest from capitalism is to begin to switch to Open Source Software. Like all divestment, this involves growing pains. Read the section on divestment for more thoughts on that. Here, I will begin with the least painful ways to divest and point towards resources for others you may be interested in.
+
+
+* Yes these are slightly different things, I have simplified here.
+
+Divesting in Capitalist Software
+--------------------------------
+
+My goal in this section is to give you some Open Source solutions you can implement nearly painlessly in a single day. There are many other improvements you can and should make (such as replacing Apple or Windows with Linux) but many are large endeavors. Also note, that the recommendations here are not intended to be "the best" but "good enough" and doable now. My goal is to get people out of capitalist ecosystems. If they want to shop around for better options in the Open Source world later, I encourage them to do so.
+
+Here's the changes I recommend you make today:
+
+* Switch your browser to Firefox. This replaces Chrome, Internet Explorer, Safari, and whatever you're using on your phone. It can import your bookmarks from other browsers. Install the addons uBlock Origin and Privacy Badger. They will block ads, trackers, and other spyware. Also consider using Firefox Sync to get the same bookmarks and passwords on each device. It's secure and convenient.
+
+If you have an Android install the following apps and delete/disable (if possible) their counterparts:
+
+* Geometric Weather. Replaces weather apps.
+
+* Antennapod. Replaces podcast apps.
+
+* OpenCamera. Replaces camera software. IMO a straight upgrade over built-in camera software on Android.
+
+* Simple Gallery. Replaces your phone's image gallery. You may also want to look at the other Simple apps.
+
+Long Term:
+
+First, stop. Pat yourself on the back and take some days/weeks/months to get used to those changes above. Too much change at once is overwhelming and unsustainable. Later, come back and check these out:
+
+https://albertomosconi.github.io/foss-apps/
+
+https://www.privacyguides.org/
+
+Divestment
+----------
+
+Divestment is the process from taking your resources out of a system. To divest in capitalism is to take your resources out of capitalism and put them somewhere else, such as mutual aid, barter, or open source software.
+
+Divestment is hard, and it's unpleasant, and it often means being temporarily or even permanently less comfortable. It does have immediate benefits tho, besides the ethical ones. 
