@@ -2,24 +2,17 @@ body {
   padding: 0;
   border: 0;
   margin: 0;
-/*   font-family: monospace, Helvetica; */
-/*   font-family: monospace, Verdana; */
-  font-family: Verdana;
-/*   font-family: Helvetica, monospace; */
-/*   font-family: monospace; */
-  
+  font-family: Verdana, sans-serif;
   line-height: 1.5;
-  float: center;
-  justify-content: center;
-  align-items: center;
   background-color: #3D3D3D;
   color: #FAE4F7;
+  font-size: 18px;
 }
 
 .column {
   float: left;
   max-width: 50ch;
-  margin: 0ch 5ch 0ch 5ch;
+  padding: 0ch 1ch 0ch 1ch;
 }
 
 a {
@@ -36,9 +29,7 @@ a {
 .nvbr a {
   float: left;
   text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+  padding: 15px;
   color: #3D3D3D;
 }
 
