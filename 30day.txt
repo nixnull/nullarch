@@ -1,0 +1,29 @@
+*Free Software* is software that you can use and redistribute without limitations.
+
+*Open Source Software* is software that anyone can see and modify the code of. If software is food, Open Source Software is food that comes with the recipe. You can see exactly what's in it, and 
+
+*FOSS* is Free and Open Source Software. It is made by nonprofits, hobbyists, or other groups and given away for anyone to use. Because it's made by community members and accessible to everyone, it generally has no profit motive, no reason to spy on you, and no secrets.
+
+*Nonfree* or *Proprietary* software is the opposite. It's made by a company, usually secretive about how it works, and only usable within the company's guidelines. It has a profit motive which is usually filled by either having a cost, using ads, selling your data, or all of the above.
+
+Linux
+
+Linux (more properly, GNU/LINUX) is a FOSS operating system. Operating Systems you might be familiar with include Windows and Mac OS. At their core, operating systems talk to your machine's hardware to make your software work. As software has to be built for a specific OS (with exceptions), different OSes have different software options.
+
+Linux can be confusing at first because, as a large open-source project, there are many variants (known as distros), bundling different versions of software and using different design philosophies. If you're not sure what you're doing and want to try Linux, I strongly recommend Linux Mint. More tech-curious people will look elsewhere for more info.
+
+Completely replacing your current OS with Linux is a big undertaking, one that I would not consider lightly. You would have to back up all of your files that you want to keep, and not all of the software you're familiar with will be available on Linux.
+
+Instead, I would recommend that you either try it in a virtual machine (which will be somewhat slow but is very easy to set up and has no risk), try dual-booting (which gives a more complete experience, but requires a bit more technical know-how), or if you have an extra computer or laptop that you're not afraid of losing data on, try it on that device.
+
+A pervasive belief about Linux is that it's infeasible because it doesn't support hardware or software people need, especially in the reals of software used in certain profressions and videogames. The situation has improved greatly, but it would be misleading to say it's entirely resolved. Whether you could viably use Linux daily will depend a lot on your specific requirements, so I encourage you to investigate the info below:
+
+For videogames, Steam (nb: steam is not FOSS) now uses a piece of software called Proton. When using steam to play a game, proton will allow most windows games to work with little or no tweaking from the user. This is exactly how the steamdeck (which runs on Linux) works. This website let's you connect your steam account to see exactly which games in your library do and don't work: https://www.protondb.com/
+
+Most popular games that don't work on Linux don't do so because of the anticheat or DRM software they use. Anticheat not working on Linux is not a limitation of Linux, it is an intentional limitation of the anticheat software. It could, and should, be fixed by the companies making the anticheat.
+
+For games on other platforms besides steam, see Heroic Game Launcher (which covers Epic Games Store and GOG) and Lutris (which covers most everything else).
+
+For other software, please look here: https://appdb.winehq.org/objectManager.php?sClass=application&sTitle=Browse%20Applications&sOrderBy=appName&bAscending=true
+
+Also keep in mind that, unless your profession locks you into a specific software, there are likely FOSS alternatives you could try. Take a look here: https://www.opensourcealternative.to/
