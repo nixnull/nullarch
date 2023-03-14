@@ -2,6 +2,8 @@
 
 The **30 Day FOSS Challenge** asks people to spend 30 days reducing their reliance on proprietary and nonfree software. This can be done through a pure "vegan" approach of entirely eliminating proprietary software for 30 days, or a more pragmatic approach of replacing one or two apps.
 
+I will be doing my own challenge in April, and if you're schedule allows I encourage you to join me. If not, feel free to do it any time of year!
+
 # "Proprietary"? "FOSS"? "Whirligig"?
 
 **Proprietary** software is software where exactly how it works and how it's made is a secret. Usually, proprietary software is made by a company. Examples include iOS, Windows, Facebook, TikTok, etc.
@@ -12,7 +14,7 @@ The **30 Day FOSS Challenge** asks people to spend 30 days reducing their relian
 
 No to both, or a little of yes to both. We have an unfortunate cycle of FOSS advocates over-promising and assuring people that everything will be perfect and fine, and then new people running into issues and getting discouraged and giving up. I want to give you an accurate understanding.
 
-First, keep in mind that this is a **30 day challenge**. Go in expecting to have problems. Some of those problems will be solvable, and you'll learn something in the process. Some of them will not be, but you'll be able to say you tried, and pass on your experience to other people.
+First, keep in mind that this is a **30 day challenge**. Go in expecting to have problems. Some of those problems will be solvable, and you'll learn something in the process. Some of them will not be, but you'll be able to say you tried. In either case, if you talk about your experience you don't only help other people find new software to use, but you help the creators of FOSS software see where they can improve your experience in the future.
 
 There are a small handful of cases where it really is painless. Firefox is FOSS, and it's just as good as Chrome in every way. The interface isn't even that different.
 
@@ -61,6 +63,12 @@ Androids, however, vary from company to company. There are several alternatives 
 
 If you have the money and resources, and need a new phone, there are also some FOSS phones available for sale, such as the Pine Phone.
 
+# I want support/someone to talk to/to complain about how hard it all is
+
+Please do all of the above! If you're on Mastodon (or stuck on one of the corporate social medias) I recommend the hashtag #30DayFOSSChallenge.
+
+If you're having trouble or have questions, I will personally answer you on mastodon: [@nix@social.stlouist.com](https://social.stlouist.com/@nix).
+
 # I'm skeptical. Convince me.
 
 ## Why do I care how it works?
@@ -108,7 +116,7 @@ While leaving entirely might not be feasible, you may be able to reduce usage th
 
 Understandable. If you're like me and your primary form of entertainment is videogames, it'd be glib to tell you to simply drop them. I want you to stay sane and happy.
 
-Keep in mind tho, that this is a 30 day challenge. There are some things you could do in this time. The number one thing you could do is **try some FOSS** games. I personally recommend OpenTTD or Battle for Wesnoth. Alternatively, you could consider catching up on any books, movies, boardgames, or hikes that you've been putting off.
+Keep in mind tho, that this is a 30 day challenge. There are some things you could do in this time. The number one thing you could do is **try some FOSS games**. I personally recommend **OpenTTD** or **Battle for Wesnoth**. Alternatively, you could consider catching up on any books, movies, boardgames, or hikes that you've been putting off.
 
 
 
