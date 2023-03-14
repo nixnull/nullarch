@@ -1,18 +1,12 @@
 # What is this?
 
-The 30 day FOSS challenge asks people to spend 30 days reducing their reliance on proprietary and nonfree software. This can be done through a pure "vegan" approach of entirely eliminating proprietary software for 30 days, or a more pragmatic approach of replacing one or two apps.
+The **30 Day FOSS Challenge** asks people to spend 30 days reducing their reliance on proprietary and nonfree software. This can be done through a pure "vegan" approach of entirely eliminating proprietary software for 30 days, or a more pragmatic approach of replacing one or two apps.
 
 # "Proprietary"? "FOSS"? "Whirligig"?
 
 **Proprietary** software is software where exactly how it works and how it's made is a secret. Usually, proprietary software is made by a company. Examples include iOS, Windows, Facebook, TikTok, etc.
 
 **FOSS** stands for **free open-source software**. In this case, **free** means both free to obtain and free to use without restriction. **Open-Source** means that how it works is open for all to see. FOSS software is made by motivated individuals, nonprofits, and communities.
-
-# I need proprietary software for work!
-
-Indeed you may. Your job may mandate certain software and there's nothing you can do about that. I'm in the same spot myself.
-
-However, the goal here is to do what we can, not worry about what we cannot do. Knowing which things are non-negotiable simply let's us focus on everything we *could* change.
 
 # Is this quick and painless? Or excruciatingly painful?
 
@@ -26,7 +20,6 @@ Most of the time you will encounter some inconvenience. Most FOSS software is le
 
 And then there are unfortunate gaps. Cloud features of proprietary software are usually either missing from FOSS or require you to do it yourself with significant expertise. Tweaking and fixing issues on some software will require technical skills you may lack - some people see this as a feature, as it gives users (with the appropriate knowledge) more control.
 
-
 # Give me some quick, simple, and doable changes.
 
 You got it. Here's some of the best known, most immediate changes you could make. You may know some of these and not have known they were FOSS.
@@ -34,8 +27,6 @@ You got it. Here's some of the best known, most immediate changes you could make
 * Replace **Google Chrome** with **Firefox**
 * Replace **Microsoft Outlook** with **Thunderbird**
 * Replace **Microsoft Office**/**Google Drive** with **LibreOffice**
-
-Also consider simply removing software you don't need. Over the last couple years I've deleted my social media accounts. This means I've eliminated TikTok, Facebook, Instagram, and Twitter. Frankly I'd even give you points if you delete the apps and only visit on the website (through Firefox, of course).
 
 # What about X? What can I replace it with?
 
@@ -93,6 +84,31 @@ This is a common anxiety of FOSS software. If there's no profit motive, why does
 The biggest FOSS projects do have funding. Some implement paid support tiers, where you can call the maintainers for help. Many receive donations from individuals, companies, and governments who rely on this software.
 
 Smaller projects are more vulnerable to this issue, but even if a maintainer no longer has the ability to work on a project, the open nature of it means another person can pick it up. For proprietary software the opposite is true: a defunct company often means a dead product.
+
+## I can't because I need...
+
+### ...proprietary software, for work!
+
+Indeed you may. Your job may mandate certain software and there's nothing you can do about that. I'm in the same spot myself.
+
+However, the goal here is to do what we can, not worry about what we cannot do. Knowing which things are non-negotiable simply lets us focus on everything we *could* change.
+
+### ...social media for [my business, keeping up on activism].
+
+Social media has become the primary way to keep up with people and organizations. You likely communicate with friends daily through social media. If you run a business, you probably rely on it as a way to freely advertise. And when it comes to activism and social movements, social media is usually the best way to get up-to-date info. Simply leaving can feel isolating.
+
+While leaving entirely might not be feasible, you may be able to reduce usage through the following methods:
+
+* Evaluate which social media are most important, and reduce to just those. Which ones are you getting healthy and important info from? Which ones are just annoying you or making you go "heh" every few posts?
+* If you communicate through something like **facebook messenger**, try replacing it with **[Signal](https://signal.org/)**.
+* Make a **Mastodon** account for your personal and business usage. Mastodon is a FOSS social network with some similarity to Twitter (tho it's not an exact match).
+* Encourage everyone around you to make the same changes.
+
+### ...videogames to stay sane.
+
+Understandable. If you're like me and your primary form of entertainment is videogames, it'd be glib to tell you to simply drop them. I want you to stay sane and happy.
+
+Keep in mind tho, that this is a 30 day challenge. There are some things you could do in this time. The number one thing you could do is **try some FOSS** games. I personally recommend OpenTTD or Battle for Wesnoth. Alternatively, you could consider catching up on any books, movies, boardgames, or hikes that you've been putting off.
 
 
 
