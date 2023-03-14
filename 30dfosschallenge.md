@@ -47,7 +47,7 @@ Before you jump straight to replacing your OS with Linux (and deleting *everythi
 * Run it in a Virtual Machine (like an emulator, for OSes)
 * [More technical:] Dual-Boot/Boot Camp, allowing you to keep both your current OS and Linux and switch between them
 
-All versions of Linux are *mostly* FOSS, but most versions are not 100% FOSS. Unfortunately, I cannot recommend a 100% FOSS version to any non-technical user currently. If you're a non-technical user interested in trying Linux. Try out this version, [Linux Mint](https://linuxmint.com/).
+All versions of Linux are *mostly* FOSS, but most versions are not 100% FOSS. Unfortunately, I cannot recommend a 100% FOSS version to any non-technical user currently. If you're a non-technical user interested in trying Linux, try [Linux Mint](https://linuxmint.com/).
 
 Technical users have more options. The most common FOSS option is [Debian](https://www.debian.org/). Most of the time, Debian will work out of the box with little issue. However, due to being FOSS, some hardware will not work properly (unless you manually install the proprietary drivers). It is this reason I cannot recommend it for non-technical users.
 
