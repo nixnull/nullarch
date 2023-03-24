@@ -56,3 +56,8 @@ h1 {
   color: #84849C;
   text-align: center;
 }
+
+.fossbox {
+    width: 78ch;
+    margin: auto;
+}

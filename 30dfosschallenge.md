@@ -1,6 +1,6 @@
 # What is this?
 
-The **30 Day FOSS Challenge** asks people to spend 30 days reducing their reliance on proprietary and nonfree software. This can be done through a pure "vegan" approach of entirely eliminating proprietary software for 30 days, or a more pragmatic approach of replacing one or two apps.
+The **30 Day FOSS Challenge** asks people to spend 30 days reducing their reliance on proprietary and nonfree software. The idea is to challenge yourself; depending on where you're starting this could be replacing a few apps, it could be finally making the switch from windows/mac to linux, or as far as relying exclusively on FOSS software for the entire challenge (which I'll call the "vegan" approach here).
 
 I will be doing my own challenge in April, and if you're schedule allows I encourage you to join me. If not, feel free to do it any time of year!
 
@@ -34,6 +34,8 @@ You got it. Here's some of the best known, most immediate changes you could make
 
 I cannot give exhaustive advice here. Instead, check out [alternativeto.net](https://alternativeto.net/). Remember to sort by Open Source. Ironically they are not themselves FOSS, and run ads. However, I think their crowd-sourced rankings and comments give more realistic expectations than some FOSS advocate websites which may recommend solutions that are not practical for all users.
 
+Additionally, try reaching out to other people for suggestions. My contact info is below.
+
 # I want to go "FOSS vegan", what are the big changes?
 
 Currently, without significant technical knowledge (or perseverance to gain those skills), going truly "vegan" is not practical. Thus, I will provide both "vegan" recommendations and the closest you can get with a 'reasonable' amount of effort.
@@ -65,9 +67,9 @@ If you have the money and resources, and need a new phone, there are also some F
 
 # I want support/someone to talk to/to complain about how hard it all is
 
-Please do all of the above! If you're on Mastodon (or stuck on one of the corporate social medias) I recommend the hashtag #30DayFOSSChallenge.
+Please do all of the above! If you're on Mastodon (or anywhere else that hashtags work) I recommend the hashtag #30DayFOSSChallenge.
 
-If you're having trouble or have questions, I will personally answer you on mastodon: [@nix@social.stlouist.com](https://social.stlouist.com/@nix).
+If you have questions, complaints, or concerns feel free to reach out to me on mastodon (@nix@social.stlouist.com](https://social.stlouist.com/@nix)) or by email (nix at nullarch dot com).
 
 # I'm skeptical. Convince me.
 
@@ -87,21 +89,21 @@ Selling user's data is already controversial. Companies are secretive about how 
 
 ## How does FOSS software stay around without funding?
 
-This is a common anxiety of FOSS software. If there's no profit motive, why doesn't it get abandoned or die?
+This is a common anxiety about FOSS software. If there's no profit motive, why doesn't it get abandoned or die?
 
 The biggest FOSS projects do have funding. Some implement paid support tiers, where you can call the maintainers for help. Many receive donations from individuals, companies, and governments who rely on this software.
 
 Smaller projects are more vulnerable to this issue, but even if a maintainer no longer has the ability to work on a project, the open nature of it means another person can pick it up. For proprietary software the opposite is true: a defunct company often means a dead product.
 
-## I can't because I need...
+## I can't do this because I need...
 
-### ...proprietary software, for work!
+### ...[specific proprietary software], for work!
 
 Indeed you may. Your job may mandate certain software and there's nothing you can do about that. I'm in the same spot myself.
 
 However, the goal here is to do what we can, not worry about what we cannot do. Knowing which things are non-negotiable simply lets us focus on everything we *could* change.
 
-### ...social media for [my business, keeping up on activism].
+### ...social media, for [my business, keeping up on activism].
 
 Social media has become the primary way to keep up with people and organizations. You likely communicate with friends daily through social media. If you run a business, you probably rely on it as a way to freely advertise. And when it comes to activism and social movements, social media is usually the best way to get up-to-date info. Simply leaving can feel isolating.
 
@@ -112,13 +114,8 @@ While leaving entirely might not be feasible, you may be able to reduce usage th
 * Make a **Mastodon** account for your personal and business usage. Mastodon is a FOSS social network with some similarity to Twitter (tho it's not an exact match).
 * Encourage everyone around you to make the same changes.
 
-### ...videogames to stay sane.
+### ...videogames, to stay sane.
 
 Understandable. If you're like me and your primary form of entertainment is videogames, it'd be glib to tell you to simply drop them. I want you to stay sane and happy.
 
 Keep in mind tho, that this is a 30 day challenge. There are some things you could do in this time. The number one thing you could do is **try some FOSS games**. I personally recommend **OpenTTD** or **Battle for Wesnoth**. Alternatively, you could consider catching up on any books, movies, boardgames, or hikes that you've been putting off.
-
-
-
-
-
