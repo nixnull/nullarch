@@ -58,6 +58,6 @@ h1 {
 }
 
 .fossbox {
-    width: 78ch;
+    max-width: 78ch;
     margin: auto;
 }
