@@ -9,12 +9,6 @@ body {
   font-size: 18px;
 }
 
-.column {
-  float: left;
-  max-width: 50ch;
-  padding: 0ch 1ch 0ch 1ch;
-}
-
 a {
   color: #DD43C5;
 }
@@ -60,4 +54,9 @@ h1 {
 .fossbox {
     max-width: 78ch;
     margin: auto;
+}
+
+.mainpg {
+    margin: auto;
+    max-width: 78ch;
 }
